@@ -42,11 +42,43 @@ In summary, it is a powerful frontend prototype of an e-learning platform that c
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/2915b190-86c3-4b31-b238-cf9111cd42fd)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/c232c99a-efed-4c94-9adf-8a2d69e1a95a)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,4 +88,15 @@ In summary, it is a powerful frontend prototype of an e-learning platform that c
 
 
 
+
+
+
+
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/bf829ed3-b79a-4b8f-9508-9dec504be48b)
 
