@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Courses</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="courses.html" class="active">Courses</a></li>
+      <li><a href="dashboard.html">Dashboard</a></li>
+      <li><a href="profile.html">Profile</a></li>
+      <li><a href="login.html">Login</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="featured-courses">
+  <h2>All Courses</h2>
+  <div id="courses-section">
+    <div class="course-list">
+  
+      <div class="course-card" onclick="loadCourse('3JluqTojuME', 'Web Development')">
+        <iframe src="https://www.youtube.com/embed/3JluqTojuME" frameborder="0" allowfullscreen></iframe>
+        <h3>Web Development</h3>
+        <p>Learn HTML, CSS, JavaScript and build responsive websites.</p>
+        <div class="progress-bar"><div class="progress" style="width: 70%;"></div></div>
+        <button>Start Learning</button>
+      </div>
+  
+      <div class="course-card" onclick="loadCourse('ua-CiDNNj30', 'Data Science')">
+        <iframe src="https://www.youtube.com/embed/ua-CiDNNj30" frameborder="0" allowfullscreen></iframe>
+        <h3>Data Science</h3>
+        <p>Explore Python, ML, and data visualization.</p>
+        <div class="progress-bar"><div class="progress" style="width: 40%;"></div></div>
+        <button>Start Learning</button>
+      </div>
+  
+      <div class="course-card" onclick="loadCourse('HlYFW2zaYQM', 'Graphic Design')">
+        <iframe src="https://www.youtube.com/embed/HlYFW2zaYQM" frameborder="0" allowfullscreen></iframe>
+        <h3>Graphic Design</h3>
+        <p>Master design principles and tools like Photoshop and Illustrator.</p>
+        <div class="progress-bar"><div class="progress" style="width: 20%;"></div></div>
+        <button>Start Learning</button>
+      </div>
+  
+    </div>
+  </div>
+  
+  <!-- Course Video Section -->
+  <div id="video-section" style="display:none;">
+    <h2 id="course-title"></h2>
+    <iframe id="course-video" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+    <br><br>
+    <button onclick="goBackToCourses()">Back to Courses</button>
+  </div>
+  
+</section>
+
+<footer>
+  <p>&copy; 2025 EduPro Learning. All rights reserved.</p>
+</footer>
+</body>
+</html>
