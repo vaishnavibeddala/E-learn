@@ -35,7 +35,9 @@ it is designed with mobile-first responsive design, using CSS Flexbox and Grid t
 
 In summary, it is a powerful frontend prototype of an e-learning platform that combines functionality, interactivity, and elegant design. It's ideal for students looking to showcase frontend skills or build on this structure for full-stack development.
 
+**OUTPUT
 
+![Image](https://github.com/user-attachments/assets/5629fde0-14e9-41ea-b828-fd7f562b9a77)
 
 
 
