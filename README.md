@@ -1,13 +1,13 @@
 # E-learn
-*COMPANI:CODETECH IT SOLUTIONS
+
 
 *NAME:VAISHNAVI
 
-*INTERN ID:CT04WR08
+
 
 *DOMAIN:FRONT END DEVELOPMENT
 
-*MENTOR:NEELA SANTHOSH
+
 
 
 *** this is a feature-rich, responsive, and interactive e-learning platform frontend designed using HTML, CSS, and JavaScript. The platform offers a seamless user experience across all devices and mimics the functionality and style of modern education platforms such as Byju’s, Coursera, and Udemy. Built as a multi-page web application, it focuses on user-centered design principles to deliver a smooth, engaging, and visually appealing learning interface.
